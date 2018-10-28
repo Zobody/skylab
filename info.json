@@ -1,0 +1,11 @@
+{
+    "name": "SkyLab",
+    "version": "0.1.0",
+    "title": "Sky Lab",
+    "author": "Zobody",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod expands on space part of the game."
+}
